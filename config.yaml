@@ -1,0 +1,31 @@
+
+# Enter the time within 24 hour period you'd like to message your target
+# Enter the value in '00:00' (which is hour:minutes format) between the single qoutes.
+# As an example '08:00' would be 8:00am, and '23:00' would be 11:00pm.
+schedule: '08:00'
+
+# Enter the gmail account you will use to send these texts messages.
+# Your target will see this email when they recieve the text message.
+# Enter the value between the single quotes.
+sender_email: 'enter your own gmail here'
+
+# You must sign in to your google account settings and create
+# this password here --> https://myaccount.google.com/apppasswords
+# Enter the value between the single quotes.
+sender_gmail_app_password: 'copy paste your password here'
+
+# Enter your targets phone number here. Country code etc not needed, only the 10 main digits.
+# Enter the value between the single quotes.
+recipient_number: '1234567890'
+
+# Google search your targets sms carrier gateway and enter it here. Do not include the @ symbol.
+# T-mobiles carrier gateway is provided as an example ---> 'tmomail.net'. Replace as necessary for your target.
+# Enter the value between the single quotes.
+recipient_carrier_gateway: 'xxxxxxxx.xxxxxxxx.com'
+
+# Enter a single message or any number of messages and they will be randomly sent on that schedule you set everyday.
+# Enter the value between the single quotes.
+message: 
+  - 'This is message 1.'
+  - 'This is message 2.'
+  - 'This is message 3.'
