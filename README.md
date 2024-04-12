@@ -41,8 +41,8 @@ Enter the value between the single quotes.
     ```
 
 ## 2. Install requirements
-Preferrably you will create a virtual environment dedicated to this app and then activate that venv and install the requirements file in there with the following line in bash terminal, or alternatively write this command in bash terminal:
-
+> [!NOTE]
+> Preferrably you will create a virtual environment dedicated to this app and then activate that venv and install the requirements file in there with the following line in bash terminal, or alternatively write this command in bash terminal:
 ```
 pip install -r requirements.text
 ```
