@@ -41,7 +41,7 @@ Enter the value between the single quotes.
     ```
 
 ## 2. Install requirements
-Preferrably you will create a virtual environment dedicated to this app and then activate that venv and install the requirements file in there with the following line in bash terminal:
+Preferrably you will create a virtual environment dedicated to this app and then activate that venv and install the requirements file in there with the following line in bash terminal, or alternatively write this command in bash terminal:
 
 ```
 pip install -r requirements.text
@@ -58,4 +58,4 @@ Note: if you want run in background
 ```
 python main.py > pid.txt 2>&1 & 
 ```
-*Jobs can be accessed with the `jobs` command. jobs will show you the running jobs, and number them. You could then talk about the jobs using a `%` followed by the number like `kill %1` or so.*
+*Jobs can be accessed with the `jobs` command. Jobs will show you the running jobs, and number them. You could then talk about the jobs using a `%` followed by the number like `kill %1` or so to stop it from running in the background, or restart your computer.*
