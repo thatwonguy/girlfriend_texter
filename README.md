@@ -53,7 +53,7 @@ pip install -r requirements.text
 python main.py
 ```
 
-Note: if you want run in background
+Note: if you want to run in background and have results saved to a txt file, write the following in your bash terminal
 
 ```
 python main.py > pid.txt 2>&1 & 
