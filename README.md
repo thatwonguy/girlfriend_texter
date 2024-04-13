@@ -31,7 +31,7 @@ T-mobiles carrier gateway is provided as an example ---> 'tmomail.net'. Replace 
 Enter the value between the single quotes.  
 `recipient_carrier_gateway: 'xxxxxxxx.xxxxxxxx.com'`
 
-6. Enter a single message or any number of messages and they will be randomly sent on that schedule you set everyday.  
+6. Enter a single message or any number of messages and they will be randomly sent on the schedule you set everyday.  
 Enter the value between the single quotes.  
     ```
     message: 
