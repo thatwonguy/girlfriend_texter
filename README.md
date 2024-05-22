@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Girlfriend/Boyfriend/Anybody_texter
 *Show your signficant others that you care! Send text messages to your girlfriend (or really anyone with a phone number) on auto-pilot!*
 
