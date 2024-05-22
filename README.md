@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Girlfriend/Boyfriend/Anybody_texter
-*Show your signficant others that you care! Send text messages to your girlfriend (or really anyone with a phone number) on auto-pilot!*
+*Show your significant other that you care! Send text messages to your girlfriend (or really anyone with a phone number) on auto-pilot!*
 
 *This app is designed to use a google gmail account that you create or already have to send text* *messages to your girlfriend/boyfriend/hubby/wifey/friend or anyone else with a cell phone. This app*
 *is currently designed to be run on your local machine. Once you have it running, it will continue* *to send text messages for as long as it is running on schedule until it is stopped or interrupted.*
